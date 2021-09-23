@@ -31,7 +31,7 @@ class TransitionComp extends Component{
                     }}
 
 
-                    onExit={() =>{
+                    onExit={() =>{ 
                         console.log('EXIT')
                     }}
                 >
